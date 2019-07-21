@@ -12,6 +12,14 @@ Once the page is loaded you can generate 1 to 30 images which will have a random
 
 You can click these images to get a close-up and compare the original image to the filtered one.
 
+### Screenshots
+
+These are screenshots of the page, one of which you will see upon loading the page and the other will appear once you clicked any of the images.
+
+![Homepage](https://github.com/ChrisLewisX/Hexbot-Challenge/blob/master/Homepage.PNG "The Homepage")
+
+![Clicked On Image](https://github.com/ChrisLewisX/Hexbot-Challenge/blob/master/ClickedImage.PNG "Clicked on image")
+
 ## Developer notes
 
 To use the Unsplash API you will need an authorisation key which is very easy to obtain.
